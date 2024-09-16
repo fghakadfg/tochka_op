@@ -80,7 +80,7 @@ class PlaceActivity : AppCompatActivity(), GestureDetector.OnGestureListener, On
 
             ListItem(
                 R.mipmap.ic_launcher_spb_round,
-                "Экскурсии с незрячим гидом “Осязаемый Петербург”",
+                "Экскурсии “Осязаемый Петербург”",
                 "Экскурсии-тренинги по городу с единственным в России незрячим гидом, квесты, занятия с детьми, создание доступной среды!",
                 "https://vk.com/2feelspb",
                 R.raw.spb
@@ -88,7 +88,7 @@ class PlaceActivity : AppCompatActivity(), GestureDetector.OnGestureListener, On
 
             ListItem(
                 R.mipmap.ic_launcher_skuratov_round,
-                "Skuratov Coffee на Малой Конюшенной",
+                "Skuratov Coffee Малая Конюшенная",
                 "Малая Конюшенная, 14\n" + "8-(996)-785-51-76",
                 "https://skuratovcoffee.ru/spb",
                 R.raw.skuratov1
@@ -96,7 +96,7 @@ class PlaceActivity : AppCompatActivity(), GestureDetector.OnGestureListener, On
 
             ListItem(
                 R.mipmap.ic_launcher_skuratov_round,
-                "Skuratov Coffee на Малой Посадской",
+                "Skuratov Coffee Малая Посадская",
                 "Малая Посадская, 4а\n" + "8-(996)-785-51-76",
                 "https://skuratovcoffee.ru/spb",
                 R.raw.skuratov1
